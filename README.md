@@ -94,7 +94,7 @@ The proposed recommender system significantly improves **recommendation accuracy
 git clone https://github.com/Soumyadipmaity1/recommender-system.git
 cd recommender-system
 pip install -r arts.txt
-python main.py
+python main.ipynb
 ```
 
 ## 🤝 Contributors
